@@ -5,11 +5,7 @@
   
 
   <title>Iustina Laza</title>
-  <style>
-	h1 {text-align: center;}
-  </style>
-
-
+  
 <body style="background-color:#F0B27A;">
 	<h1 class="h2">Iustina Laza</h1>
 	<img src="profil.jpeg" width="180" height="200" alt="" class="center">
