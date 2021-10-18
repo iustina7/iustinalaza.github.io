@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+
+    <title>Iustina Laza</title>
+
+    
+
+  </head>
+
+  <body>
+
+    <div class="site-wrapper">
+
+      <div class="site-wrapper-inner">
+
+        <div class="cover-container">
+
+          <div class="inner cover">
+            
+            <div id="text_col">
+              <h1 class="cover-heading">Iustina Laza</h1>
+              <h2>Software Engineer<h2>
+              
+            </div>
+          </div>
+
+
+        </div>
+
+      </div>
+
+    </div>
+
+  </body>
+</html>
